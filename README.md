@@ -14,7 +14,7 @@ BookMe is an Android application that allows users to book appointments with var
 ## Features
 
 - **Splash Screen**: App logo and tagline displayed on startup.  
-- **Home Screen**: Welcome message and app description with “Book Appointment” button.  
+- **Home Screen**: Welcome message and app description with Appointment button.  
 - **Appointment Form**: Enter name, phone, email, appointment type, date, time, and gender. Accept terms and conditions.  
 - **Form Validation**: Ensures all fields are filled before submission.  
 - **Confirmation Screen**: Displays appointment details clearly.  
@@ -37,14 +37,14 @@ BookMe is an Android application that allows users to book appointments with var
 ### 1. Clone and Open Project
 
 ```bash
-git clone <your-github-repo-url>
+git clone <https://github.com/MianSaadTahir/2023-CS-62/>
 cd BookMe
 ```
 
 Open the project in Android Studio.
 ### 2. Run Application
 Connect an Android device or use an emulator.
-Click Run → Run ‘app’.
+Click Run ‘app’.
 
 ## Contributing
 
