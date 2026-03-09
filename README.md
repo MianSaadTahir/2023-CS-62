@@ -22,10 +22,10 @@ BookMe is an Android application that allows users to book appointments with var
 
 ## Screenshots
 
-![Splash Screen](/assets/1.jpeg)
-![Home Screen](/assets/2.jpeg)
-![Appointment Form](/assets/3.jpeg)
-![Confirmation Screen](/assets/4.jpeg)
+<img src="/assets/1.jpeg" alt="Dashboard Overview" width="75%">
+<img src="/assets/2.jpeg" alt="Dashboard Overview" width="75%">
+<img src="/assets/3.jpeg" alt="Dashboard Overview" width="75%">
+<img src="/assets/4.jpeg" alt="Dashboard Overview" width="75%">
 
 ## Technologies
 
