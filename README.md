@@ -37,8 +37,8 @@ BookMe is an Android application that allows users to book appointments with var
 ### 1. Clone and Open Project
 
 ```bash
-git clone <https://github.com/MianSaadTahir/2023-CS-62/>
-cd BookMe
+git clone https://github.com/MianSaadTahir/2023-CS-62/
+cd 2023-CS-62
 ```
 
 Open the project in Android Studio.
